@@ -54,7 +54,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
  
 ## Tools
 
-- [Another LINQ Tool](https://github.com/NicoARD/another-linq-tool) - Free C# query and scripting extension for VS Code with project DLL references, reusable profiles, EF Core DbContext support, IntelliSense, and debugging. [Examples](https://github.com/NicoARD/another-linq-tool/tree/master/examples)
+- [Another LINQ Tool](https://github.com/NicoARD/another-linq-tool) - Free C# query and scripting extension for VS Code with project DLL references, reusable profiles, EF Core DbContext support, IntelliSense, and debugging.
 - [LINQPad](http://www.linqpad.net) - An awesome tool to test and prototype LINQ queries.
 - [Linqer](http://sqltolinq.com) - Convert SQL query to LINQ
 - [LINQ to Entity query visualizer](https://visualstudiogallery.msdn.microsoft.com/99468ece-689b-481c-868c-19e00e0a4e69) - View Native SQL of LINQ to entities ObjectQuery in Visual Studio 
@@ -62,6 +62,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 ## Samples
 
 - [101 LINQ Samples](https://code.msdn.microsoft.com/101-LINQ-Samples-3fb9811b) - Sample covering all LINQ functionality and demonstrating LINQ with SQL, DataSets, and XML
+- [Another LINQ Tool examples](https://github.com/NicoARD/another-linq-tool/tree/master/examples) - Example C# and LINQ scripts for Another LINQ Tool.
 - [LINQ - Sample Queries](https://code.msdn.microsoft.com/LINQ-Sample-Queries-13a42a54) - This project contains about 101 samples using LINQ
 
 ## Readings
@@ -104,6 +105,6 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 
 ## Lists
 
-You may want to look to [awesome-dotnet](https://github.com/quozd/awesome-dotnet) by @Quozd, [awesome-dotnet](https://github.com/Valien/awesome-dotnet) by @Valien or [awesome-test-automation (C# section)](https://github.com/atinfo/awesome-test-automation/blob/master/c%23-test-automation.md) by @atinfo. Also [.NET libraries that make your life easier](https://github.com/tallesl/.NET-libraries-that-make-your-life-easier) by @tallesl deserves a mention.
+You may want to look to [awesome-dotnet](https://github.com/quozd/awesome-dotnet) by @Quozd, [awesome-dotnet](https://github.com/Valien/awesome-dotnet) by @Valien or [awesome-test-automation (C# section)](https://github.com/atinfo/awesome-test-automation/blob/master/c%23-test-automation.md) first. Thanks to all contributors, you're awesome and wouldn't be possible without you!
 
 Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) list, the [awesome](https://github.com/sindresorhus/awesome) list or if you want [more lists](https://github.com/jnv/lists).
